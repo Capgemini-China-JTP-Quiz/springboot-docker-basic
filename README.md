@@ -1,1 +1,1 @@
-![img.png](img.png)
+在Dockerfile中编写代码，使用本地docker命令行进行软件打包，并在本地启动
